@@ -47,4 +47,4 @@ Follow these steps to set up the project locally:
 
 3. Enable Gemini API in your Google Cloud Console
 
-4. Paste the API key in your /.env/ file as shown above
+4. Paste the API key in your ```.env``` file as shown above
