@@ -41,10 +41,10 @@ Follow these steps to set up the project locally:
 
 ## How to Get Gemini API Key 🔑 
 
-1. Go to [Google AI Studio] (https://makersuite.google.com/app)
+1. Go to [Google AI Studio](https://makersuite.google.com/app)
 
 2. Generate your API key from the "API Access" section
 
 3. Enable Gemini API in your Google Cloud Console
 
-4. Paste the API key in your .env file as shown above
+4. Paste the API key in your /.env/ file as shown above
